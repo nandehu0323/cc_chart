@@ -1,0 +1,6 @@
+websocket-client
+plotly
+numpy
+pandas
+stockstats
+stockplot
